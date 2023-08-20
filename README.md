@@ -19,6 +19,6 @@
 
  1. If you don't already have it, install VSCode with the Python plugin
 
- 2. Install the Cody plugin from SourceGraph
+ 2. Install the Cody plugin from SourceGraph. (Just the plugin is okay; no need to install the separate Cody app.)
 
  3. If you haven't already used it, play around some with Cody
