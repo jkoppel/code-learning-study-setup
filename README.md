@@ -14,6 +14,8 @@
 
 > pip install -r requirements.txt
 
+ 5. Fill out the pre-study survey and consent form: https://forms.gle/vJAS8kaQnAFU7AXy9
+
 
 # Instructions for Group 1
 
