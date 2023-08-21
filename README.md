@@ -5,7 +5,7 @@ Because this is a study about codebase learning, we can't give you access to the
 # Instructions for everyone
 
  0. If you are not already familiar with the board game Battleship, then learn about it
- 1. Install a version of Python between 3.6 and 3.9.6 if you don't already have one. Note that 
+ 1. Install a version of Python between 3.6 and 3.9.6 if you don't already have one. Note that the code does not work in 3.10 or newer.
  2. Create a virtualenv with whatever version of Python you are using, e.g.:
 
 > pyenv virtualenv 3.9.6 code-learning-study
